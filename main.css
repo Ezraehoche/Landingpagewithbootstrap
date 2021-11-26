@@ -120,17 +120,13 @@ body {
 	background: #dedec8;
 	padding: 4em 0;
 }
-.about-us {
-    color: #5e5e55;
-	padding: 0 180px;
-    margin-top: 5%;
-    margin-bottom: 1%;
+
     
-}
 
-.aboutteam{
 
-}
+
+
+
 .team {
 	color: #5e5e55;
 	padding: 0 180px;
@@ -183,6 +179,9 @@ body {
         margin: 0;
     }
 }
+
+
+
 #demo-modal .modal-content {
     border-radius: 0;
     padding: 2rem;
